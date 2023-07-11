@@ -1,0 +1,110 @@
+li.menu-item{
+    list-style-type: "☕";
+}
+@font-face {
+    font-family: "Buba";
+    src: url(ofont.ru_Buba.ttf);
+}
+h1.logo-title{
+    font-family: "Buba";
+}
+.header{
+    width: 100%;
+    color: white;
+    padding: 30px;
+    background: rgb(31, 81, 117);
+    box-sizing: border-box;
+    font-family: Buba;
+}
+.a1, .b1{
+    margin-left: 150px;
+    padding: 100;
+    text-indent: 100px;
+    font-size: 30px;
+    font-family:'Courier New', Courier, monospace;
+}
+
+.a2, .a3, .b2{
+    text-indent: 20px;
+    font-size: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-left: 377px;
+}
+.nn{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 24px;
+}
+.nn2{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 24px;
+}
+
+.cards{
+    padding: 15px;
+    color: #000;
+}
+.cards2{
+    color: #000;
+    margin-top: 35px;
+}
+.cards3{
+    color: #000;
+    margin-top: 25px;
+}
+.cards2 .carg-img{
+    margin-top: 25px;
+}
+.carg-img1{
+    margin-top: 20px;
+}
+.carg-img3{
+    margin-top: 40px;
+}
+
+.menu{
+    margin-left: 40px;
+}
+.menu-item{
+    list-style: none;
+}
+.menu-link{
+    color: #ffffff;
+    font-size: 19px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.container{
+    max-width: 1140px;
+}
+.banner4 a.menu-link3{
+    text-decoration: none;
+    color: #ffffff;
+    background:rgb(69, 100, 120);
+}
+li.menu-link2{
+    list-style-type:"• ";
+    background:rgb(69, 100, 120);
+}
+.banner{
+    color: rgb(255, 255, 255);
+    font-family: Buba;
+    padding: 30px;
+    background: rgb(69, 100, 120);
+    font-size: 40px;
+    padding: 15px;
+}
+a.menu-link3{
+    background:rgb(69, 100, 120);;
+}
+.banner3{
+    margin-left: 850px;
+}
+.banner4{
+    margin-left: 835px;
+    list-style: none;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 30px;
+}
+*{
+    margin: 0;
+    padding: 0;
+}
