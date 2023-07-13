@@ -55,6 +55,7 @@ h1.logo-title{
 .carg-img1, .carg-img, .carg-img3{
     padding: 15px;
     box-shadow: -10px 15px 20px -5px rgb(216, 109, 109);
+    background-size: cover;
 }
 
 .menu{
