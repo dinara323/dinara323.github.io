@@ -82,10 +82,9 @@ li.menu-link2{
 .banner{
     color: rgb(255, 255, 255);
     font-family: Buba;
-    padding: 30px;
-    background: rgb(69, 100, 120);
+    padding: 15px 0px;
+    background: url(fon.png);
     font-size: 40px;
-    padding: 15px;
 }
 a.menu-link3{
     background:rgb(69, 100, 120);;
