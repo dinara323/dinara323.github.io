@@ -54,6 +54,7 @@ h1.logo-title{
 
 .carg-img1, .carg-img, .carg-img3{
     padding: 15px;
+    box-shadow: -10px 15px 20px -5px rgb(216, 109, 109);
 }
 
 .menu{
@@ -74,8 +75,6 @@ h1.logo-title{
     text-decoration: none;
     color: #ffffff;
     background:url(fon.png);
-}
-li.menu-link2{
     list-style-type:"• ";
     background:rgb(69, 100, 120);
 }
@@ -85,9 +84,6 @@ li.menu-link2{
     padding: 15px 0px;
     background: url(fon.png);
     font-size: 40px;
-}
-a.menu-link3{
-    background:rgb(69, 100, 120);;
 }
 .banner3{
     margin-left: 850px;
